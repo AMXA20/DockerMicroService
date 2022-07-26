@@ -1,0 +1,7 @@
+D:\Estudar\Alura\MicroServicos .Net\2461-microservices-dotnet-Ini\RestauranteService\obj\Debug\net6.0\RestauranteService.csproj.AssemblyReference.cache
+D:\Estudar\Alura\MicroServicos .Net\2461-microservices-dotnet-Ini\RestauranteService\obj\Debug\net6.0\RestauranteService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudar\Alura\MicroServicos .Net\2461-microservices-dotnet-Ini\RestauranteService\obj\Debug\net6.0\RestauranteService.AssemblyInfoInputs.cache
+D:\Estudar\Alura\MicroServicos .Net\2461-microservices-dotnet-Ini\RestauranteService\obj\Debug\net6.0\RestauranteService.AssemblyInfo.cs
+D:\Estudar\Alura\MicroServicos .Net\2461-microservices-dotnet-Ini\RestauranteService\obj\Debug\net6.0\RestauranteService.csproj.CoreCompileInputs.cache
+D:\Estudar\Alura\MicroServicos .Net\2461-microservices-dotnet-Ini\RestauranteService\obj\Debug\net6.0\RestauranteService.MvcApplicationPartsAssemblyInfo.cs
+D:\Estudar\Alura\MicroServicos .Net\2461-microservices-dotnet-Ini\RestauranteService\obj\Debug\net6.0\RestauranteService.MvcApplicationPartsAssemblyInfo.cache

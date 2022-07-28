@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestauranteService", "RestauranteService\RestauranteService.csproj", "{A099A8F2-0C69-47EC-835E-C0F2C1990877}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ItemService", "ItemService\ItemService.csproj", "{1F7C0D9E-8348-4625-A6AF-9C5A15C3C180}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A099A8F2-0C69-47EC-835E-C0F2C1990877} = {A099A8F2-0C69-47EC-835E-C0F2C1990877}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

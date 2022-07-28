@@ -1173,11 +1173,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Estudar\\Alura\\MicroServicos .Net\\2461-microservices-dotnet-Ini\\RestauranteService\\RestauranteService.csproj",
+      "projectUniqueName": "D:\\Estudar\\Alura\\MicroServicos .Net\\projeto-inicial\\RestauranteService\\RestauranteService.csproj",
       "projectName": "RestauranteService",
-      "projectPath": "D:\\Estudar\\Alura\\MicroServicos .Net\\2461-microservices-dotnet-Ini\\RestauranteService\\RestauranteService.csproj",
+      "projectPath": "D:\\Estudar\\Alura\\MicroServicos .Net\\projeto-inicial\\RestauranteService\\RestauranteService.csproj",
       "packagesPath": "C:\\Users\\Alexandre\\.nuget\\packages\\",
-      "outputPath": "D:\\Estudar\\Alura\\MicroServicos .Net\\2461-microservices-dotnet-Ini\\RestauranteService\\obj\\",
+      "outputPath": "D:\\Estudar\\Alura\\MicroServicos .Net\\projeto-inicial\\RestauranteService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alexandre\\AppData\\Roaming\\NuGet\\NuGet.Config",

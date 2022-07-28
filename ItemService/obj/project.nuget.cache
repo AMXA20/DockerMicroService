@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nxeAhVImx+ddi6dk07igWHPkO/7Ae0p+T/KTFZUn9fqgNxqyq39OqBofwODBAhw78xOX5OicXyJ26eBMckK4+w==",
+  "dgSpecHash": "F0g6M2FiGs68rdECdP9LngIKvSV/PyCa/p4ohMcsJN/4Mq6tVt0ltoGYgFJg5kiRgdd25oIyGnzswhe9/+jcsg==",
   "success": true,
-  "projectFilePath": "D:\\Estudar\\Alura\\MicroServicos .Net\\2461-microservices-dotnet-Ini\\ItemService\\ItemService.csproj",
+  "projectFilePath": "D:\\Estudar\\Alura\\MicroServicos .Net\\projeto-inicial\\ItemService\\ItemService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alexandre\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Alexandre\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
